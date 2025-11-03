@@ -1,0 +1,1 @@
+# Proje-Iyzico-Odeme-ve-Elektronik-Para-Hizmetleri-A.S.-Apache-Cassandra-ile-Veri-Modelleme
